@@ -1,4 +1,6 @@
+// Ping server implementation
 import com.sun.net.httpserver.HttpServer;
+// ... остальной код
 import com.sun.net.httpserver.HttpHandler;
 import com.sun.net.httpserver.HttpExchange;
 import java.io.IOException;
